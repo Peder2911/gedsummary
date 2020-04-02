@@ -1,0 +1,5 @@
+
+data/*
+!data/ged191.csv.md5
+*.csv
+*.swp
